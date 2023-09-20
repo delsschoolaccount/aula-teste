@@ -1,7 +1,9 @@
 body{
-    display: flex;
-    justify-content: center;
     background-color: rgb(205, 250, 255);
+}
+
+.container{
+    display: flex;
 }
 
 h1{
