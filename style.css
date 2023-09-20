@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(205, 250, 255);
+}
+
+h1{
+    font-style: italic;
+    font-size: 48px;
+}
+
+h2{
+    font-size: 24px
+}
